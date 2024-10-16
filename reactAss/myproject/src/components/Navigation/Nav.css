@@ -1,0 +1,26 @@
+.Container{
+    display: flex;
+    justify-content: space-between;
+}
+.Container img{
+    height: 20px;
+}
+.Navigation{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 700px;
+
+    nav{
+        margin-left: 30px;
+    }
+}
+
+.Login{
+    display: flex;
+    justify-content: space-between;
+
+    button{
+        margin-left: 50px;
+        margin-bottom: 100px;
+    }
+}

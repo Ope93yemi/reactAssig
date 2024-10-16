@@ -1,0 +1,29 @@
+.Body{
+    display: flex;
+    justify-content: space-around;
+   
+
+    img{
+        margin-left: 20px;
+    }
+}
+
+.Side{
+    margin-right: 200px;
+
+    h1{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 50px;
+        margin-right: 80px;
+    }
+
+    p{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        margin-right: 30px;
+    }
+}
+
+.Hero img{
+    width: 350px;
+}
+
